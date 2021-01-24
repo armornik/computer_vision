@@ -1,3 +1,5 @@
 venv
 .idea
 img
+a_thumbs
+__pycache__
